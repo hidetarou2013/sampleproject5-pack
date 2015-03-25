@@ -1,0 +1,2 @@
+# sampleproject5-pack
+sampleproject5のパッケージ管理用リポジトリ
